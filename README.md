@@ -1,0 +1,1 @@
+This project was made for CECS 475 at CSULB. It is written in C#. It consumes date.nager.at's REST-adhering world holidays API and returns it to the user by utilizing an MVC structure. It utilizes AJAX to pull the API request asynchronously.
